@@ -1,0 +1,11 @@
+reportlab
+pmdarima
+tensorflow
+openpyxl
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+Pillow
